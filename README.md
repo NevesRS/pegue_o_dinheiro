@@ -4,7 +4,7 @@ Para resolver o desafio eu utilizei uma lógica de conversão traduzindo o arqui
 
 <h2>Rodando a aplicação</h2>
 Para rodar a aplicação basta clonar o repositório da seguinte forma:
-Use o comando `control+shift+p` para abrir a janela de comando do VSCode.
+Use o comando ` control+shift+p ` para abrir a janela de comando do VSCode.
 
 Digite na barra de pesquisa "**Git: Clone**"
 ![6b83bf69-4d7d-40e8-be79-15a0c105b518](https://github.com/NevesRS/trabalho_alest_js/assets/88750273/dea66b7f-3397-47e3-aaa5-70b8cb359216)
