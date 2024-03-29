@@ -1,6 +1,6 @@
 <h1>Trabalho de ALEST II</h1>
-Esse trabalho tinha por objetivo realizar a leitura de um arquivo TXT. Esse arquivo tinha um formato de mapa com caracteres indicando a movimentação, e ao final do mapa indicar o valor acumulado durante o percurso.
-Para resolver o desafio eu utilizei uma lógica de conversão traduzindo o arquivo txt para uma matriz, permitindo a locomoção completa do mapa em termos de linhas e colunas.
+Esse trabalho tinha por objetivo realizar a leitura de um arquivo TXT, e ao final dele deveria ser indicado o valor acumulado durante o percurso. Esse arquivo tinha um formato de mapa com caracteres indicando a movimentação. 
+Para resolver o desafio eu utilizei uma lógica de conversão traduzindo o arquivo txt para uma matriz(construtor_matriz.js), permitindo a locomoção completa do mapa em termos de linhas e colunas(app.js).
 
 <h2>Rodando a aplicação</h2>
 Para rodar a aplicação basta clonar o repositório da seguinte forma:
