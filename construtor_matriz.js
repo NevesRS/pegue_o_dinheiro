@@ -15,13 +15,12 @@ function lerArquivo(filePath) {
 }
 
 function criarMatriz(text) {
-  const matrix = [];
-  const lines = text.split('\n');
-  for (let i = 0; i < lines.length; i++) {
-    const line = lines[i];
-    matrix.push(line.split('').slice(0, pathNumber+1)); // Adiciona apenas os primeiros N caracteres de cada linha
+  const matriz = [];
+  const linha = text.split('\n');
+  for (let i = 0; i < linha.length; i++) {
+      matriz[i] = linha[i].split('');
   }
-  return matrix.slice(0, pathNumber+1); // Retorna apenas as primeiras N linhas
+  return matriz;
 }
 
 function main() {
